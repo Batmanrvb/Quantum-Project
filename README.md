@@ -37,7 +37,7 @@ Team Member 1:
 
 
 Team Member 2:
- - Full Name: Shahrzad Ghaderi
+ - Full Name: Sakineh Ghaderi
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
